@@ -1,0 +1,46 @@
+{
+  "_from": "https://www.atom.io/api/packages/styri-syntax/versions/1.0.0/tarball",
+  "_id": "styri-syntax@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-0wRM1PIi2OEa7gHaduwP4EQpRMqxHuCXJElTn/QrmSR3BasE0hpwDGPrSVLRxHiD2EBMxhJPZerYNmmBchAlwA==",
+  "_location": "/styri-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/styri-syntax/versions/1.0.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/styri-syntax/versions/1.0.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/styri-syntax/versions/1.0.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/styri-syntax/versions/1.0.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/styri-syntax/versions/1.0.0/tarball",
+  "_shasum": "4c2f05b8a1b9d17ab0fc7783582f463b778c067f",
+  "_spec": "https://www.atom.io/api/packages/styri-syntax/versions/1.0.0/tarball",
+  "_where": "/private/var/folders/5q/g1b4nvfs3slgctzhm4q8vpnw0000gn/T/apm-install-dir-1181027-5346-1c4xuk4.toh7f",
+  "bugs": {
+    "url": "https://github.com/chbk/styri-syntax/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A colorful and intuitive syntax theme",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/chbk/styri-syntax#readme",
+  "keywords": [
+    "styri",
+    "color",
+    "dark"
+  ],
+  "license": "MIT",
+  "name": "styri-syntax",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chbk/styri-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "1.0.0"
+}

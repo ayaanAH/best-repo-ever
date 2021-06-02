@@ -1,0 +1,10 @@
+INFO: Platform: darwin
+INFO: Version Info: v0.3.0
+DEBUG: Log Path: /Users/ayaankhan/.atom/packages/atom-python-run/cp.log
+DEBUG: command: ['python', '/Users/ayaankhan/Documents/PYTHON/one.py']
+DEBUG: args: ['/Users/ayaankhan/Documents/PYTHON/one.py']
+DEBUG: repl: python
+DEBUG: pause: True
+DEBUG: file: None
+INFO: return code: 0 (0x0)
+INFO: elapsed time: 0.047803

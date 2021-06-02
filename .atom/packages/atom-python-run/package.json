@@ -1,0 +1,45 @@
+{
+  "_from": "https://www.atom.io/api/packages/atom-python-run/versions/0.9.7/tarball",
+  "_id": "atom-python-run@0.9.7",
+  "_inBundle": false,
+  "_integrity": "sha512-gQFFITWxOyVp8TZfuYuNOsQV7AVcLcK00r+FHiSLq2J7GU32aLHjxbIqNttKSJmp1qwbP77ayEx9PgQYU2OHEg==",
+  "_location": "/atom-python-run",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/atom-python-run/versions/0.9.7/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/atom-python-run/versions/0.9.7/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/atom-python-run/versions/0.9.7/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/atom-python-run/versions/0.9.7/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/atom-python-run/versions/0.9.7/tarball",
+  "_shasum": "44acd516750188e1637904ff15d5030262cacc94",
+  "_spec": "https://www.atom.io/api/packages/atom-python-run/versions/0.9.7/tarball",
+  "_where": "/private/var/folders/5q/g1b4nvfs3slgctzhm4q8vpnw0000gn/T/apm-install-dir-119523-27597-1adf8wa.6k6sg",
+  "bugs": {
+    "url": "https://github.com/foreshadow/atom-python-run/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Run a python source file.",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/foreshadow/atom-python-run#readme",
+  "keywords": [
+    "python"
+  ],
+  "license": "MIT",
+  "main": "./lib/atom-python-run.js",
+  "name": "atom-python-run",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foreshadow/atom-python-run.git"
+  },
+  "version": "0.9.7"
+}
